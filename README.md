@@ -1,4 +1,5 @@
-task1
+task 1
+
 n = int(input())
 
 i = 0
@@ -9,8 +10,6 @@ while i < n:
     res = 23 * len(command)
 
     print(res)
-
-
 
 task 2
 a = float(input())
@@ -32,11 +31,9 @@ elif c == "/":
         
 else:
     print("ЫЫЫЫЫЫЫ")
-    
-    
-    
+
 task 3
-    x1 = int(input())
+x1 = int(input())
 y1 = int(input())
 
 x2 = int(input())
@@ -49,11 +46,8 @@ if (x3 == 5 or x3 == 2 or x3 == -5 or x3 == -2) and (y3 == 5 or y3 == 2 or y3 ==
     print("YESS")
 else:
     print("no no")
-    
-    
-    
 task 4
-    1 = int(input())
+x1 = int(input())
 y1 = int(input())
 
 x2 = int(input())
